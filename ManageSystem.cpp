@@ -3,6 +3,7 @@
 Address_book book;
 int main()
 {
+	system("title 通讯录管理系统");
 	loadconfig(&book);
 	string s;
 	int n;

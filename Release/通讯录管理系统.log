@@ -3,12 +3,11 @@
   delContact.cpp
   findContact.cpp
   loadconfig.cpp
+  ManageSystem.cpp
   reviseContact.cpp
   saveBook.cpp
   showContact.cpp
   showMenu.cpp
   正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 239 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
   通讯录管理系统.vcxproj -> D:\C_project\Address_book_management_system\通讯录管理系统\Release\通讯录管理系统.exe
